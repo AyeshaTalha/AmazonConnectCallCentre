@@ -29,13 +29,13 @@ This project involves creating a call center solution using Amazon Web Services 
 7. Monitor and analyze: Use CloudWatch to monitor the performance and health of the call center solution. Set up alarms and notifications for critical metrics, such as call wait times or system failures. Analyze call center data to gain insights and improve customer service.
 <h2>Benefits of Building a Call Center in AWS using Amazon Connect and Lex:</h2>
 
-1.Scalability: AWS services allow the call center solution to scale up or down based on call volume and agent availability, ensuring optimal performance and customer satisfaction.
+1. Scalability: AWS services allow the call center solution to scale up or down based on call volume and agent availability, ensuring optimal performance and customer satisfaction.
 
-2.Cost-effectiveness: With pay-as-you-go pricing and the ability to provision resources as needed, AWS provides a cost-effective solution for building and operating a call center.
+2. Cost-effectiveness: With pay-as-you-go pricing and the ability to provision resources as needed, AWS provides a cost-effective solution for building and operating a call center.
 
-3.Automation and efficiency: By leveraging Amazon Lex for automated responses and natural language understanding, the call center can handle a large volume of customer inquiries efficiently, reducing the need for human intervention.                             
+3. Automation and efficiency: By leveraging Amazon Lex for automated responses and natural language understanding, the call center can handle a large volume of customer inquiries efficiently, reducing the need for human intervention.                             
 
-4.Integration and extensibility: AWS services, such as Lambda, allow for seamless integration with other systems and the ability to extend the functionality of the call center solution as needed.
+4. Integration and extensibility: AWS services, such as Lambda, allow for seamless integration with other systems and the ability to extend the functionality of the call center solution as needed.
 
 5. Real-time analytics: With CloudWatch monitoring and logging, the call center can gain real-time insights into call center performance, agent productivity, and customer satisfaction, enabling continuous improvement.
 <br/>
