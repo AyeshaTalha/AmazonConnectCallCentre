@@ -15,18 +15,20 @@ This project involves creating a call center solution using Amazon Web Services 
 <h2>Project Workflow:</h2>
 
 1. Design call center architecture: Define the call flow, IVR menus, and routing strategies for incoming calls. Determine the integration points with Amazon Lex for natural language understanding and automated responses.
+<p align="center">
+Call Centre Arhitrcture: <br/>
+<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />3. Set up Amazon Connect: Configure Amazon Connect to create the call center instance. Define phone numbers, queues, routing profiles, and hours of operation. Customize the IVR prompts and greetings.
 
-2. Set up Amazon Connect: Configure Amazon Connect to create the call center instance. Define phone numbers, queues, routing profiles, and hours of operation. Customize the IVR prompts and greetings.
+4. Create Amazon Lex bots: Design and build conversational bots using Amazon Lex. Define intents, slots, and utterances to handle different types of customer inquiries and automate responses.
 
-3. Create Amazon Lex bots: Design and build conversational bots using Amazon Lex. Define intents, slots, and utterances to handle different types of customer inquiries and automate responses.
+5. Integrate Amazon Connect and Lex: Configure Amazon Connect to use Amazon Lex bots for handling customer interactions. Set up call flows and routing rules to direct calls to the appropriate Lex bot based on customer inputs.
 
-4. Integrate Amazon Connect and Lex: Configure Amazon Connect to use Amazon Lex bots for handling customer interactions. Set up call flows and routing rules to direct calls to the appropriate Lex bot based on customer inputs.
+6. Develop custom Lambda functions: Write and deploy Lambda functions to extend the functionality of Amazon Connect and Lex. This can include custom logic for call routing, data retrieval from external systems, or integration with other AWS services.
 
-5. Develop custom Lambda functions: Write and deploy Lambda functions to extend the functionality of Amazon Connect and Lex. This can include custom logic for call routing, data retrieval from external systems, or integration with other AWS services.
+7. Store call center data: Set up S3 buckets to store call recordings, transcripts, and other media assets generated during call center interactions. Configure permissions and access control for secure storage.
 
-6. Store call center data: Set up S3 buckets to store call recordings, transcripts, and other media assets generated during call center interactions. Configure permissions and access control for secure storage.
-
-7. Monitor and analyze: Use CloudWatch to monitor the performance and health of the call center solution. Set up alarms and notifications for critical metrics, such as call wait times or system failures. Analyze call center data to gain insights and improve customer service.
+8. Monitor and analyze: Use CloudWatch to monitor the performance and health of the call center solution. Set up alarms and notifications for critical metrics, such as call wait times or system failures. Analyze call center data to gain insights and improve customer service.
 <h2>Benefits of Building a Call Center in AWS using Amazon Connect and Lex:</h2>
 
 1. Scalability: AWS services allow the call center solution to scale up or down based on call volume and agent availability, ensuring optimal performance and customer satisfaction.
