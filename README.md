@@ -28,25 +28,39 @@ Call Centre Architecture: <br/>
 Creating an Amazon Connect Instance: <br/>
 <img src="https://imgur.com/QV7bCw6.png" height="80%" width="80%">
 <br/>
+    
 <p align="center">
-Step 1:Seting up Identity for the Instance<br/>
+Seting up Identity for the Instance<br/>
 <img src="https://imgur.com/wyRDc8C.png" height="80%" width="80%">
+    
 <p align="center">
-Step 2:Creating the Administrator for the instance.This Admin will be used to login on our website later. So do remember the username and password <br/>
+Creating the Administrator for the instance.This Admin will be used to login on our website later. So do remember the username and password <br/>
 <img src="https://imgur.com/7OVujrX.png" height="80%" width="80%">
+    
 <p align="center">
-Step 3:Seting up the Telephony: <br/>
+Seting up the Telephony: <br/>
 <img src="https://imgur.com/gWWE6xO.png" height="80%" width="80%">
+    
 <p align="center">
-Step 4: You can view the S3 Bucket where your Instance Data is Stored. Scroll Down and Press Next.<br/>
+You can view the S3 Bucket where your Instance Data is Stored. Scroll Down and Press Next.<br/>
 <img src="https://imgur.com/nYBy4sz.png" height="80%" width="80%">
+    
 <p align="center">
-Step 5:Review all your data, Scroll Down and Press Create Instance. <br/>
+Review all your data, Scroll Down and Press Create Instance. <br/>
 <img src="https://imgur.com/YLDGfLZ.png" height="80%" width="80%">
 <br/>
 
+<p align="center">
+Click on the Access URL of the Instance And Use the Admin User And Password Which We Set Up Earlier To Sign In<br/>
+<img src="https://imgur.com/Dd6vG2K.png" height="80%" width="80%"> <br/>
 
-3.
+<p align="center">
+The Next Step is To Set Hours Of Operation. On the Dashboard Click On the Routing Option And Select Hours Of Operation<br/>
+<img src="https://imgur.com/ukjoJ1V.png" height="80%" width="80%">
+
+<p align="center">
+Click on Add New Hours. Set a name, Select the Preferred Time Zone And Tht Number Of Working Days.<br/>
+<img src="https://imgur.com/lW4XEp6.png" height="80%" width="80%">
 
 4. Create Amazon Lex bots: Design and build conversational bots using Amazon Lex. Define intents, slots, and utterances to handle different types of customer inquiries and automate responses.
 
