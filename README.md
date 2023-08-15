@@ -17,17 +17,21 @@ This project involves creating a call center solution using Amazon Web Services 
 1. Design call center architecture: Define the call flow, IVR menus, and routing strategies for incoming calls. Determine the integration points with Amazon Lex for natural language understanding and automated responses.
 <p align="center">
 Call Centre Arhitrcture: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/NXmevLq.png height="80%" width="80%">
 <br />
 <p align="center">
-<img src=" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/vE1YJEf.png" height="80%" width="80%">
 <br />
+    
 2. Set up Amazon Connect: Configure Amazon Connect to create the call center instance. Define phone numbers, queues, routing profiles, and hours of operation. Customize the IVR prompts and greetings.
 <p align="center">
-: <br/>
-<img src="https://imgur.com/lPI0Xc5.png" height="80%" width="80%">
+Creating an Amazon Connect Instance: <br/>
+<img src="https://imgur.com/QV7bCw6.png" height="80%" width="80%">
 <br/>
-4. Create Amazon Lex bots: Design and build conversational bots using Amazon Lex. Define intents, slots, and utterances to handle different types of customer inquiries and automate responses.
+<p align="center">
+Step 1: Create the company name: <br/>
+<img src="https://imgur.com/QV7bCw6.png" height="80%" width="80%">
+<br/>4. Create Amazon Lex bots: Design and build conversational bots using Amazon Lex. Define intents, slots, and utterances to handle different types of customer inquiries and automate responses.
 
 5. Integrate Amazon Connect and Lex: Configure Amazon Connect to use Amazon Lex bots for handling customer interactions. Set up call flows and routing rules to direct calls to the appropriate Lex bot based on customer inputs.
 
