@@ -30,7 +30,7 @@ Creating an Amazon Connect Instance: <br/>
 <br/>
 <p align="center">
 Step 1: Create the company name: <br/>
-<img src="https://imgur.com/QV7bCw6.png" height="80%" width="80%">
+<img src="https://imgur.com/ptOWlvg.png" height="80%" width="80%">
 <br/>4. Create Amazon Lex bots: Design and build conversational bots using Amazon Lex. Define intents, slots, and utterances to handle different types of customer inquiries and automate responses.
 
 5. Integrate Amazon Connect and Lex: Configure Amazon Connect to use Amazon Lex bots for handling customer interactions. Set up call flows and routing rules to direct calls to the appropriate Lex bot based on customer inputs.
