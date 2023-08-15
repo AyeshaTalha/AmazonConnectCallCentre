@@ -30,7 +30,7 @@ Creating an Amazon Connect Instance: <br/>
 <br/>
 <p align="center">
 Setting Identity of the Instance: <br/>
-<img src="https://imgur.com/ptOWlvg.png" height="80%" width="80%">
+<img src="https://imgur.com/wyRDc8C.png" height="80%" width="80%">
 <p align="center">
 Creating the Administrator for the instance.This Admin will be used to login on our website later. So do remember the username and password: <br/>
 <img src="https://imgur.com/7OVujrX.png" height="80%" width="80%">
