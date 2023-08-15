@@ -79,6 +79,10 @@ Lets Add Another Queue For Sales. Name the Queue as Sales and Select the Hours O
 Now we Need to Set Up the Routing Profiles.On the Dashboard Under the Users Menu Select Routing Profiles.<br/>
 <img src="https://imgur.com/cH6ToMJ.png" height="80%" width="80%"><br/>
 
+<p align="center">
+Click on Add Routing Profile and Add A Sales Routing Profile.Tick the Channel Box to Voice and Select Sales Queue under the Queues bar.<br/>
+<img src="https://imgur.com/oQ7IDlN.png" height="80%" width="80%"><br/>
+<img src="https://imgur.com/6tDKWhq.png" height="80%" width="80%><br/>
 4. Create Amazon Lex bots: Design and build conversational bots using Amazon Lex. Define intents, slots, and utterances to handle different types of customer inquiries and automate responses.
 
 5. Integrate Amazon Connect and Lex: Configure Amazon Connect to use Amazon Lex bots for handling customer interactions. Set up call flows and routing rules to direct calls to the appropriate Lex bot based on customer inputs.
