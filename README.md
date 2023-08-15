@@ -17,7 +17,7 @@ This project involves creating a call center solution using Amazon Web Services 
 1. Design call center architecture: Define the call flow, IVR menus, and routing strategies for incoming calls. Determine the integration points with Amazon Lex for natural language understanding and automated responses.
 <p align="center">
 Call Centre Arhitrcture: <br/>
-<img src="https://imgur.com/NXmevLq.png height="80%" width="80%">
+<img src="https://imgur.com/NXmevLq.png" height="80%" width="80%">
 <br />
 <p align="center">
 <img src="https://imgur.com/vE1YJEf.png" height="80%" width="80%">
