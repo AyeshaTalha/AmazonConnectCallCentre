@@ -29,20 +29,26 @@ Creating an Amazon Connect Instance: <br/>
 <img src="https://imgur.com/QV7bCw6.png" height="80%" width="80%">
 <br/>
 <p align="center">
-Setting Identity of the Instance: <br/>
+Step 1:Seting up Identity for the Instance<br/>
 <img src="https://imgur.com/wyRDc8C.png" height="80%" width="80%">
 <p align="center">
-Creating the Administrator for the instance.This Admin will be used to login on our website later. So do remember the username and password: <br/>
+Step 2:Creating the Administrator for the instance.This Admin will be used to login on our website later. So do remember the username and password <br/>
 <img src="https://imgur.com/7OVujrX.png" height="80%" width="80%">
 <p align="center">
-Set the telephony: <br/>
+Step 3:Seting up the Telephony: <br/>
 <img src="https://imgur.com/gWWE6xO.png" height="80%" width="80%">
-
 <p align="center">
-Scroll All the Way Down and Press Create Instance and Our Instance Will be Created: <br/>
+Step 4: You can view the S3 Bucket where your Instance Data is Stored. Scroll Down and Press Next.<br/>
+<img src="https://imgur.com/nYBy4sz.png" height="80%" width="80%">
+<p align="center">
+Step 5:Review all your data, Scroll Down and Press Create Instance. <br/>
 <img src="https://imgur.com/YLDGfLZ.png" height="80%" width="80%">
-    
-<br/>4. Create Amazon Lex bots: Design and build conversational bots using Amazon Lex. Define intents, slots, and utterances to handle different types of customer inquiries and automate responses.
+<br/>
+
+
+3.
+
+4. Create Amazon Lex bots: Design and build conversational bots using Amazon Lex. Define intents, slots, and utterances to handle different types of customer inquiries and automate responses.
 
 5. Integrate Amazon Connect and Lex: Configure Amazon Connect to use Amazon Lex bots for handling customer interactions. Set up call flows and routing rules to direct calls to the appropriate Lex bot based on customer inputs.
 
