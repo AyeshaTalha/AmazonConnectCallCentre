@@ -90,6 +90,16 @@ Click on add Routing Profile and Add a Sales Routing Profile.Tick the Voice Box 
 Add Another Routing Profile for Technical Support. Tick the Voice Box for Channel and Select Technical Support Queues bar.<br/>
 <img src="https://imgur.com/VGpTv7A.png" height="80%" width="80%"><br/>
 
+Lets add some users now. On the dashboard under the Users menu select User Management option.
+<p align="center">
+<img src="https://imgur.com/YEqcWLE.png" height="80%" width="80%"> <br/>
+
+Click on "Add User". Enter all the information for the User and Select the Security Profile as Agent and Routing Profile as Sales.
+<p align="center">
+<img src="https://imgur.com/xOmlLh1.png" height="80%" width="80%"> <br/>
+<p align="center">
+<img src="https://imgur.com/xOmlLh1.png" height="80%" width="80%"> <br/>
+
 4. Create Amazon Lex bots: Design and build conversational bots using Amazon Lex. Define intents, slots, and utterances to handle different types of customer inquiries and automate responses.
 
 5. Integrate Amazon Connect and Lex: Configure Amazon Connect to use Amazon Lex bots for handling customer interactions. Set up call flows and routing rules to direct calls to the appropriate Lex bot based on customer inputs.
