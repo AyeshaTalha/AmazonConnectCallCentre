@@ -36,7 +36,9 @@ Creating the Administrator for the instance.This Admin will be used to login on 
 <img src="https://imgur.com/7OVujrX.png" height="80%" width="80%">
 <p align="center">
 Set the telephony: <br/>
-<img src="https://imgur.com/gWWE6xO) align="center">
+<img src="https://imgur.com/gWWE6xO.png" height="80%" width="80%">
+
+<p align="center">
 Scroll All the Way Down and Press Create Instance and Our Instance Will be Created: <br/>
 <img src="https://imgur.com/YLDGfLZ.png" height="80%" width="80%">
     
