@@ -100,6 +100,12 @@ Click on "Add User". Enter all the information for the User and Select the Secur
 <p align="center">
 <img src="https://imgur.com/xOmlLh1.png" height="80%" width="80%"> <br/>
 
+Lets add another user. Enter all the information for the User, Select the Security Profile as Agent and Routing Profile as Technical Support.
+<p align="center">
+<img src="https://imgur.com/F4a2jS8.png" height="80%" width="80%"> <br/> height="80%" width="80%"> <br/>
+<p align="center">
+<img src="https://imgur.com/m06ET1r.png" height="80%" width="80%"> <br/>
+
 4. Create Amazon Lex bots: Design and build conversational bots using Amazon Lex. Define intents, slots, and utterances to handle different types of customer inquiries and automate responses.
 
 5. Integrate Amazon Connect and Lex: Configure Amazon Connect to use Amazon Lex bots for handling customer interactions. Set up call flows and routing rules to direct calls to the appropriate Lex bot based on customer inputs.
