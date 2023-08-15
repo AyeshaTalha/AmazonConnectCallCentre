@@ -62,6 +62,10 @@ The Next Step is To Set Hours Of Operation. On the Dashboard Click On the Routin
 Click on Add New Hours. Set a name, Select the Preferred Time Zone And Tht Number Of Working Days.<br/>
 <img src="https://imgur.com/lW4XEp6.png" height="80%" width="80%">
 
+<p align="center">
+Now We Need To Set Up the Queues. On the Dashboard under the Routing Option, Select Queues.<br/>
+<img src="https://imgur.com/DRDYjE1.png" height="80%" width="80%">
+
 4. Create Amazon Lex bots: Design and build conversational bots using Amazon Lex. Define intents, slots, and utterances to handle different types of customer inquiries and automate responses.
 
 5. Integrate Amazon Connect and Lex: Configure Amazon Connect to use Amazon Lex bots for handling customer interactions. Set up call flows and routing rules to direct calls to the appropriate Lex bot based on customer inputs.
