@@ -19,6 +19,7 @@ This project involves creating a call center solution using Amazon Web Services 
 Call Centre Architecture: <br/>
 <img src="https://imgur.com/NXmevLq.png" height="80%" width="80%">
 <br />
+
 <p align="center">
 <img src="https://imgur.com/vE1YJEf.png" height="80%" width="80%">
 <br />
@@ -31,19 +32,19 @@ Creating an Amazon Connect Instance: <br/>
     
 <p align="center">
 Seting up Identity for the Instance<br/>
-<img src="https://imgur.com/wyRDc8C.png" height="80%" width="80%">
+<img src="https://imgur.com/wyRDc8C.png" height="80%" width="80%"><br/>
     
 <p align="center">
 Creating the Administrator for the instance.This Admin will be used to login on our website later. So do remember the username and password <br/>
-<img src="https://imgur.com/7OVujrX.png" height="80%" width="80%">
+<img src="https://imgur.com/7OVujrX.png" height="80%" width="80%"><br/>
     
 <p align="center">
 Seting up the Telephony: <br/>
-<img src="https://imgur.com/gWWE6xO.png" height="80%" width="80%">
+<img src="https://imgur.com/gWWE6xO.png" height="80%" width="80%"><br/>
     
 <p align="center">
 You can view the S3 Bucket where your Instance Data is Stored. Scroll Down and Press Next.<br/>
-<img src="https://imgur.com/nYBy4sz.png" height="80%" width="80%">
+<img src="https://imgur.com/nYBy4sz.png" height="80%" width="80%"><br/>
     
 <p align="center">
 Review all your data, Scroll Down and Press Create Instance. <br/>
@@ -56,15 +57,25 @@ Click on the Access URL of the Instance And Use the Admin User And Password Whic
 
 <p align="center">
 The Next Step is To Set Hours Of Operation. On the Dashboard Click On the Routing Option And Select Hours Of Operation<br/>
-<img src="https://imgur.com/ukjoJ1V.png" height="80%" width="80%">
+<img src="https://imgur.com/ukjoJ1V.png" height="80%" width="80%"><br/>
 
 <p align="center">
 Click on Add New Hours. Set a name, Select the Preferred Time Zone And Tht Number Of Working Days.<br/>
-<img src="https://imgur.com/lW4XEp6.png" height="80%" width="80%">
+<img src="https://imgur.com/lW4XEp6.png" height="80%" width="80%"><br/>
 
 <p align="center">
-Now We Need To Set Up the Queues. On the Dashboard under the Routing Option, Select Queues.<br/>
-<img src="https://imgur.com/DRDYjE1.png" height="80%" width="80%">
+Now we Need to Set Up the Queues. On the Dashboard under the Routing Option, Select Queues.<br/>
+<img src="https://imgur.com/DRDYjE1.png" height="80%" width="80%"><br/>
+
+<p align="center">
+Click on Add Queues. Name the Queue as Technical Queue and Select the Hours Of Operation as NineToFive.<br/>
+<img src="https://imgur.com/9aXeKGg.png" height="80%" width="80%"><br/>
+
+<p align="center">
+Lets Add Another Queue For Sales. Name the Queue as Sales and Select the Hours Of Operation as Basic Hours.<br/>
+<img src="https://imgur.com/ykuFNXi.png" height="80%" width="80%"><br/>
+
+<p
 
 4. Create Amazon Lex bots: Design and build conversational bots using Amazon Lex. Define intents, slots, and utterances to handle different types of customer inquiries and automate responses.
 
