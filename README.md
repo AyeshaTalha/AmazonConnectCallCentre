@@ -35,6 +35,8 @@ Setting Identity of the Instance: <br/>
 Creating the Administrator for the instance.This Admin will be used to login on our website later. So do remember the username and password: <br/>
 <img src="https://imgur.com/7OVujrX.png" height="80%" width="80%">
 <p align="center">
+Set the telephony: <br/>
+<img src="https://imgur.com/gWWE6xO) align="center">
 Scroll All the Way Down and Press Create Instance and Our Instance Will be Created: <br/>
 <img src="https://imgur.com/YLDGfLZ.png" height="80%" width="80%">
     
