@@ -75,7 +75,9 @@ Click on Add Queues. Name the Queue as Technical Queue and Select the Hours Of O
 Lets Add Another Queue For Sales. Name the Queue as Sales and Select the Hours Of Operation as Basic Hours.<br/>
 <img src="https://imgur.com/ykuFNXi.png" height="80%" width="80%"><br/>
 
-<p
+<p align="center">
+Now we Need to Set Up the Routing Profiles.On the Dashboard Under the Users Menu Select Routing Profiles.<br/>
+<img src="https://imgur.com/cH6ToMJ.png" height="80%" width="80%"><br/>
 
 4. Create Amazon Lex bots: Design and build conversational bots using Amazon Lex. Define intents, slots, and utterances to handle different types of customer inquiries and automate responses.
 
