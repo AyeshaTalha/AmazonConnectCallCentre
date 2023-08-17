@@ -102,7 +102,7 @@ Click on "Add User". Enter all the information for the User and Select the Secur
 
 Lets add another user. Enter all the information for the User, Select the Security Profile as Agent and Routing Profile as Technical Support.
 <p align="center">
-<img src="https://imgur.com/F4a2jS8.png" height="80%" width="80%"> <br/> height="80%" width="80%"> <br/>
+<img src="https://imgur.com/F4a2jS8.png" height="80%" width="80%"> <br/>
 <p align="center">
 <img src="https://imgur.com/m06ET1r.png" height="80%" width="80%"> <br/>
 
@@ -111,6 +111,12 @@ Now, we need to create Contact Flows. On the Dashboard, Under the Routing menu s
 <img src="https://imgur.com/cqlbtyf.png" height="80%" width="80%"> <br/>
 
 Click on Create Contact Flow. Name the Flow as the Main Flow. On the lefthand side, you can see a list of blocks. You can drag and drop these blocks on the righthand side to create the flow. Let's start by creating a Play prompt. Whenever a customer calls in, this prompt will be played to greet the customer.Drag and Drop thr Play Prompt to the righthand side and enter the Message to be played. 
+<p align="center">
+<img src="https://imgur.com/mncV6Jy.png" height="80%" width="80%"> <br/>
+
+Lets get the customer input to direct them to the desired service.
+<p align="center">
+<img src="https://imgur.com/LfvXQoA.png" height="80%" width="80%"> <br/>
 
 
 
@@ -136,3 +142,5 @@ Click on Create Contact Flow. Name the Flow as the Main Flow. On the lefthand si
 
 5. Real-time analytics: With CloudWatch monitoring and logging, the call center can gain real-time insights into call center performance, agent productivity, and customer satisfaction, enabling continuous improvement.
 <br/>
+<p align="center">
+<img src="https://imgur.com/mncV6Jy.png" height="80%" width="80%"> <br/>
