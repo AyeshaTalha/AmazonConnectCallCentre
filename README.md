@@ -106,6 +106,13 @@ Lets add another user. Enter all the information for the User, Select the Securi
 <p align="center">
 <img src="https://imgur.com/m06ET1r.png" height="80%" width="80%"> <br/>
 
+Now, we need to create Contact Flows. On the Dashboard, Under the Routing menu select Contact Flows option.
+<p align="center">
+<img src="https://imgur.com/cqlbtyf.png" height="80%" width="80%"> <br/>
+
+Click on Create Contact Flow. Name the Flow as the Main Flow. On the lefthand side, you can see a list of blocks. You can drag and drop these blocks on the righthand side to create the flow. Let's start by creating a Play prompt. Whenever a customer calls in, this prompt will be played to greet the customer.Drag and Drop thr Play Prompt to the righthand side and enter the Message to be played. 
+
+
 
 
 4. Create Amazon Lex bots: Design and build conversational bots using Amazon Lex. Define intents, slots, and utterances to handle different types of customer inquiries and automate responses.
