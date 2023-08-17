@@ -120,6 +120,14 @@ Lets get the customer input to direct them to the desired service. Enter the mes
 <p align="center">
 <img src="https://imgur.com/e1Apskl.png" height="80%" width="80%"> <br/>
 
+Next step is to add the transfer flows to Sales, Technical Support and Order Status queues. The flow will be directed to the queues when the desired option is pressed. Connect the entry points and also connect the error points to disconnect.
+<p align="center">
+<img src="https://imgur.com/WxvFsEL.png" height="80%" width="80%"> <br/>
+<p align="center">
+<img src="https://imgur.com/sBAU8GQ.png" height="80%" width="80%"> <br/>
+
+
+
 
 
 
