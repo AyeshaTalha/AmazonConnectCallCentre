@@ -132,6 +132,23 @@ Lets proceed by Creating the contact flow for Sales. Under the Routing menu, sel
 <p align="center">
 <img src="https://imgur.com/L7hPz91.png" height="80%" width="80%"> <br/>
 
+Similarly, lets add the Contact Flow for Technical Support.
+<p align="center">
+<img src="https://imgur.com/fPfVBlO.png" height="80%" width="80%"> <br/>
+<p align="center">
+<img src="https://imgur.com/4lewfY4.png" height="80%" width="80%"> <br/>
+
+To Check the Order Status for the customer, we need to get the Order Number as the Customer Input, invoke a Lamda Function that fetches the order status and issue it to the Play Promt which will play the Order Status and then Discoonect the call.
+<p align="center">
+<img src="https://imgur.com/En64lB1.png" height="80%" width="80%"> <br/>
+<p align="center">
+<img src="https://imgur.com/NyGMjok.png" height="80%" width="80%"> <br/>
+<p align="center">
+<img src="https://imgur.com/Zw5ysB4.png" height="80%" width="80%"> <br/>
+
+
+
+
 
 
 
