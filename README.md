@@ -114,9 +114,16 @@ Click on Create Contact Flow. Name the Flow as the Main Flow. On the lefthand si
 <p align="center">
 <img src="https://imgur.com/mncV6Jy.png" height="80%" width="80%"> <br/>
 
-Lets get the customer input to direct them to the desired service.
+Lets get the customer input to direct them to the desired service. Enter the message to be displayed while getting the input and add three options.
 <p align="center">
 <img src="https://imgur.com/LfvXQoA.png" height="80%" width="80%"> <br/>
+<p align="center">
+<img src="https://imgur.com/e1Apskl.png" height="80%" width="80%"> <br/>
+
+
+
+
+
 
 
 
