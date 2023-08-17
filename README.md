@@ -151,9 +151,35 @@ Enter the Name of the Function, Runtime as Python 3.9 and click Create Function.
 <p align="center">
 <img src="https://imgur.com/HqcQ8Nz.png" height="80%" width="80%"> <br/>
 
-Now, Select the Function created and Scoll down to the Code Source section. The code for this Lamda Function is given above in the LamdaFunctionCode.txt file. Just copy all the code and paste it in the code block and Deploy the code.
+Now, select the Function created and Scroll down to the Code Source section. The code for this Lamda Function is given above in the LamdaFunctionCode.txt file. Just copy all the code and paste it in the code block and Deploy the code.
 <p align="center">
 <img src="https://imgur.com/Y36j174.png" height="80%" width="80%"> <br/>
+
+To Add the Function to the Contact Flow, click on our Instance in the Amazon Connect console and scroll down to the AWS Lamda block. Select the Lamda Function and Add it and Copy the ARN.
+<p align="center">
+<img src="https://imgur.com/pGX3oUV.png" height="80%" width="80%"> <br/>
+
+Scroll back to the Order Status Flow. Click on the Invoke Lamda Function and add the Lamda Function we just created. Click on Add Paramters and provide OrderNo as the destination key. Select the value to be entered Dynamically. Namespace as system and value as Stored Customer Input and click on Save.
+<p align="center">
+<img src="https://imgur.com/hq66ZEU.png" height="80%" width="80%"> <br/>
+<p align="center">
+<img src="https://imgur.com/JxILwvB.png" height="80%" width="80%"> <br/>
+<p align="center">
+<img src="https://imgur.com/Q0HXE8s.png" height="80%" width="80%"> <br/>
+
+Next Step would be to add all the Contact Flows we created to the Main Flow. Scroll back to the Main Flow page and Click on the Transfer to Flow promt and select the respective flows for Sales, Technical Support and Order Status.
+<p align="center">
+<img src="https://imgur.com/AMiQC95.png" height="80%" width="80%"> <br/>
+<p align="center">
+<img src="https://imgur.com/F10pEKE.png" height="80%" width="80%"> <br/>
+
+The Last step is to claim a Phone Number for our instance. On the Dashboard, under the Channels menu select Phone Numbers. Click on Claim  Number. Select the type as Direct Inward Dialing (DID), Enter the country code and Select the Number. 
+<p align="center">
+<img src="https://imgur.com/Mh0l6BA.png" height="80%" width="80%"> <br/>
+<p align="center">
+<img src="https://imgur.com/CiPmMhd.png" height="80%" width="80%"> <br/>
+
+
 
 
 
