@@ -146,6 +146,16 @@ To Check the Order Status for the customer, we need to get the Order Number as t
 <p align="center">
 <img src="https://imgur.com/Zw5ysB4.png" height="80%" width="80%"> <br/>
 
+Lets Create the Lamda Function to get the Order Status. From the AWS Console, go the AWS Lamda service. Click on Create Function.
+Enter the Name of the Function, Runtime as Python 3.9 and click Create Function.
+<p align="center">
+<img src="https://imgur.com/HqcQ8Nz.png" height="80%" width="80%"> <br/>
+
+Now, Select the Function created and Scoll down to the Code Source section. The code for this Lamda Function is given above in the LamdaFunctionCode.txt file. Just copy all the code and paste it in the code block and Deploy the code.
+<p align="center">
+<img src="https://imgur.com/Y36j174.png" height="80%" width="80%"> <br/>
+
+
 
 
 
