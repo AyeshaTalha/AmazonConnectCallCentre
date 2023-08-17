@@ -126,6 +126,14 @@ Next step is to add the transfer flows to Sales, Technical Support and Order Sta
 <p align="center">
 <img src="https://imgur.com/sBAU8GQ.png" height="80%" width="80%"> <br/>
 
+Lets proceed by Creating the contact flow for Sales. Under the Routing menu, select Flows option and click on Create Contact Flow. Give the name for the flow as Sales. From the lefthand side of the menu, drag and drop the set working queue block on the righthand side and select the queue as the Sales queue. Transfervthe call to the Agent by adding the Transfer to Queue block and lastly connect the errors to a disconnect block.
+<p align="center">
+<img src="https://imgur.com/8bu2GR0.png" height="80%" width="80%"> <br/>
+<p align="center">
+<img src="https://imgur.com/L7hPz91.png" height="80%" width="80%"> <br/>
+
+
+
 
 
 
