@@ -194,5 +194,3 @@ Enter the Name of the Function, Runtime as Python 3.9 and click Create Function.
 
 5. Real-time analytics: With CloudWatch monitoring and logging, the call center can gain real-time insights into call center performance, agent productivity, and customer satisfaction, enabling continuous improvement.
 <br/>
-<p align="center">
-<img src="https://imgur.com/mncV6Jy.png" height="80%" width="80%"> <br/>
