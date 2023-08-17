@@ -110,7 +110,7 @@ Now, we need to create Contact Flows. On the Dashboard, Under the Routing menu s
 <p align="center">
 <img src="https://imgur.com/cqlbtyf.png" height="80%" width="80%"> <br/>
 
-Click on Create Contact Flow. Name the Flow as the Main Flow. On the lefthand side, you can see a list of blocks. You can drag and drop these blocks on the righthand side to create the flow. Let's start by creating a Play prompt. Whenever a customer calls in, this prompt will be played to greet the customer.Drag and Drop thr Play Prompt to the righthand side and enter the Message to be played. 
+Click on Create Contact Flow. Name the Flow as the Main Flow. On the lefthand side, you can see a list of blocks. You can drag and drop these blocks on the righthand side to create the flow. Let's start by creating a Play prompt. Whenever a customer calls in, this prompt will be played to greet the customer.Drag and Drop thr Play Prompt to the righthand side, enter the Message to be played and Publish the flow. 
 <p align="center">
 <img src="https://imgur.com/mncV6Jy.png" height="80%" width="80%"> <br/>
 
@@ -126,7 +126,7 @@ Next step is to add the transfer flows to Sales, Technical Support and Order Sta
 <p align="center">
 <img src="https://imgur.com/sBAU8GQ.png" height="80%" width="80%"> <br/>
 
-Lets proceed by Creating the contact flow for Sales. Under the Routing menu, select Flows option and click on Create Contact Flow. Give the name for the flow as Sales. From the lefthand side of the menu, drag and drop the set working queue block on the righthand side and select the queue as the Sales queue. Transfervthe call to the Agent by adding the Transfer to Queue block and lastly connect the errors to a disconnect block.
+Lets proceed by Creating the contact flow for Sales. Under the Routing menu, select Flows option and click on Create Contact Flow. Give the name for the flow as Sales. From the lefthand side of the menu, drag and drop the set working queue block on the righthand side and select the queue as the Sales queue. Transfervthe call to the Agent by adding the Transfer to Queue block and lastly connect the errors to a disconnect block and Publish the flow.
 <p align="center">
 <img src="https://imgur.com/8bu2GR0.png" height="80%" width="80%"> <br/>
 <p align="center">
